@@ -1,0 +1,13 @@
+---
+title: "Luthfi Al Pasha"
+subtitle: "Portfolio Asesmen II-2100 KIPP"
+author: "18224039 Luthfi Al Pasha"
+date: "NULL"
+format: html
+---
+
+# Selamat Datang 👋
+
+Ini adalah beranda utama dari portofolio **Luthfi Al Pasha**.
+
+Gunakan daftar isi di sebelah kiri untuk menjelajahi halaman-halaman lain.
