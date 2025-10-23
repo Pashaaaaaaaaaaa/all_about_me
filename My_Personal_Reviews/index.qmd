@@ -81,3 +81,13 @@
 ### 📊 Interpretasi
 > Nilai rata-rata keseluruhan: **91.75% (A)**  
 > Konsisten menunjukkan refleksi diri, orisinalitas tinggi, dan kedalaman makna antar-UTS.
+
+## Identifikasi
+
+* Nama & NIM penulis: **Luthfi Al Pasha – 18224039** 
+* Penilai: **Peer-assessment**
+
+## Penilaian
+
+<p><a href="UTS-5_Skor.xlsx" class="btn btn-primary">📥 Unduh Data Excel</a></p>
+
