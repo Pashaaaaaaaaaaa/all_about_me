@@ -1,0 +1,14 @@
+# UAS-2 My Opinions  
+## **Sikap dan Strategi Terbaik dalam Menghadapi Krisis Air Bersih di Era AI**
+
+Menurut pandangan saya, pendekatan terbaik dalam menghadapi krisis air bersih dan sanitasi adalah **pergeseran dari solusi reaktif ke solusi prediktif dan preventif** berbasis teknologi informasi. Selama ini, banyak kebijakan baru diambil setelah terjadi wabah penyakit atau krisis kesehatan. Di era AI, pendekatan tersebut sudah tidak relevan.
+
+Pemerintah, institusi publik, dan masyarakat perlu mengambil sikap proaktif dengan:
+
+1. **Mengutamakan pengambilan keputusan berbasis data**, bukan asumsi.
+2. **Mengintegrasikan sistem informasi lintas sektor**, seperti kesehatan, lingkungan, dan pendidikan.
+3. **Memastikan keadilan akses teknologi**, terutama bagi komunitas miskin dan daerah terpencil.
+
+Artificial Intelligence dapat digunakan untuk memprediksi potensi pencemaran air, mendeteksi risiko wabah penyakit akibat sanitasi buruk, serta mengoptimalkan distribusi air bersih. Namun, teknologi tidak akan efektif tanpa komitmen etis dan kebijakan yang berpihak pada masyarakat rentan. Oleh karena itu, keputusan terbaik adalah menjadikan teknologi sebagai alat pemberdayaan sosial, bukan sekadar simbol kemajuan.
+
+---

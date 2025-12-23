@@ -1,0 +1,10 @@
+# UAS-1 My Concepts  
+## **Krisis Air Bersih dan Sanitasi sebagai Tantangan Sistemik di Era Digital**
+
+Krisis air bersih dan sanitasi merupakan salah satu permasalahan global paling mendasar yang hingga kini belum terselesaikan secara merata. Akses terhadap air minum yang aman dan sanitasi layak adalah hak dasar manusia, namun faktanya miliaran orang di dunia masih hidup tanpa layanan tersebut. Fenomena ini bukan hanya persoalan ketersediaan sumber daya alam, tetapi juga mencerminkan kegagalan sistem pengelolaan, distribusi, dan informasi.
+
+Dalam konteks **era Artificial Intelligence (AI)** dan perkembangan **Sistem dan Teknologi Informasi**, krisis air bersih dapat dipahami sebagai masalah sistemik yang membutuhkan pendekatan berbasis data, teknologi, dan integrasi lintas sektor. Kurangnya infrastruktur, pencemaran air, kemiskinan, serta lemahnya sistem pemantauan menyebabkan kualitas air sulit dikontrol dan layanan sanitasi tidak merata.
+
+Keistimewaan pengetahuan di era digital adalah kemampuan untuk **mengubah data menjadi dasar pengambilan keputusan**. Dengan memanfaatkan teknologi seperti Internet of Things (IoT), big data, dan AI, persoalan air bersih tidak lagi hanya dilihat sebagai krisis fisik, tetapi sebagai tantangan informasi: bagaimana data kualitas air dikumpulkan, dianalisis, dan digunakan secara efektif untuk melindungi kesehatan masyarakat. Inilah landasan konseptual bahwa penerapan sistem informasi yang tepat dapat menjadi kunci dalam mengatasi krisis air bersih dan sanitasi secara berkelanjutan.
+
+---

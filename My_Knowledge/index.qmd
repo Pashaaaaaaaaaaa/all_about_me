@@ -1,0 +1,11 @@
+# UAS-4 My Knowledge  
+## **Pembelajaran bagi Masyarakat tentang Air Bersih dan Teknologi Informasi**
+
+Dari pembahasan ini, terdapat beberapa pengetahuan penting yang dapat dipetik oleh masyarakat:
+
+1. **Krisis air bersih bukan hanya masalah alam, tetapi masalah sistem informasi dan manajemen.**
+2. **Artificial Intelligence dapat membantu mencegah krisis kesehatan**, bukan hanya meresponsnya.
+3. **Akses informasi yang transparan meningkatkan kesadaran dan perubahan perilaku**, seperti kebiasaan hidup bersih dan sehat.
+4. **Teknologi harus inklusif**, agar manfaatnya dirasakan oleh seluruh lapisan masyarakat.
+
+Melalui pemahaman ini, masyarakat diharapkan tidak hanya menjadi penerima layanan, tetapi juga aktor aktif dalam menjaga kualitas air dan sanitasi lingkungan. Pendidikan digital dan literasi teknologi menjadi fondasi penting agar inovasi berbasis AI benar-benar berdampak nyata bagi kesejahteraan manusia.

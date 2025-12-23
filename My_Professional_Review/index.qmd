@@ -1,0 +1,79 @@
+## UAS-5 My Professional Reviews
+
+## Identifikasi
+
+* Nama & NIM penulis: **Luthfi Al Pasha – 18224039** 
+* Penilai: **Self-assessment (Luthfi Al Pasha)**
+
+---
+
+## Tinjauan Spesifik + Skor (1–5)
+
+### 🧾 UAS-1 — My Concepts
+
+| **Kriteria** | **Deskripsi Penilaian** | **Skor (1–5)** | **Catatan / Bukti** |
+|---------------|--------------------------|----------------|----------------------|
+| **Clarity** | Kejelasan penyampaian konsep utama dan alur penjelasan. | **5.0** | Konsep krisis air bersih sebagai masalah sistemik disampaikan sangat jelas, terstruktur, dan tanpa ambiguitas. |
+| **Logic** | Keterkaitan logis antar gagasan dan alur pemikiran. | **4.5** | Alur berpikir runtut dari masalah global menuju peran sistem dan teknologi informasi; transisi antar paragraf logis dan koheren. |
+| **Validity** | Kekuatan dukungan konseptual terhadap argumen yang disampaikan. | **4.0** | Argumen selaras dengan realitas global (SDG, AI, sistem informasi); dukungan konseptual kuat meski belum disertai rujukan eksplisit. |
+| **Usefulness** | Manfaat konsep bagi pemahaman dan penerapan praktis. | **4.5** | Memberikan kerangka berpikir yang aplikatif untuk memahami krisis air bersih melalui perspektif sistem dan teknologi informasi. |
+
+### 🧮 **Total Skor: 4.5 (A)**
+
+> 📝 *UAS-1 menunjukkan pemahaman konseptual yang matang: jelas, logis, dan relevan. Konsep yang disajikan kuat sebagai fondasi pemikiran untuk UAS-UAS berikutnya.*
+
+### 🧾 UAS-2 — My Opinions
+
+| **Kriteria** | **Deskripsi Penilaian** | **Skor (1–5)** | **Catatan / Bukti** |
+|---------------|--------------------------|----------------|----------------------|
+| **Compelling** | Daya tarik dan kekuatan gagasan yang disampaikan. | **4.5** | Pandangan disampaikan tegas dan relevan; isu pergeseran dari solusi reaktif ke prediktif membuat argumen terasa kuat dan penting. |
+| **Informative** | Kelengkapan dan kedalaman informasi pendukung opini. | **4.0** | Opini dibangun di atas konteks yang jelas (AI, kebijakan publik, krisis air); cukup informatif meski tidak terlalu teknis. |
+| **Persuasive** | Kemampuan meyakinkan pembaca terhadap sudut pandang penulis. | **4.5** | Argumen rasional dan etis saling menguatkan; pembaca diajak menerima teknologi sebagai alat pemberdayaan, bukan sekadar inovasi. |
+| **Engaging** | Keterlibatan emosi dan nalar pembaca. | **4.5** | Gaya reflektif dan normatif membuat pembaca terlibat secara intelektual sekaligus moral dalam isu yang dibahas. |
+
+### 🧮 **Total Skor: 4.4 (A)**
+
+> 📝 *UAS-2 berhasil menyampaikan opini yang kuat dan meyakinkan. Argumen tidak hanya rasional, tetapi juga bernilai etis dan relevan dengan konteks sosial saat ini.*
+
+### 🧾 UAS-3 — My Innovations
+
+| **Kriteria** | **Deskripsi Penilaian** | **Skor (1–5)** | **Catatan / Bukti** |
+|---------------|--------------------------|----------------|----------------------|
+| **Nilai Guna (Value Creation)** | Tingkat penciptaan nilai dan manfaat bagi berbagai pihak. | **4.8** | SmartWater-CARE memberikan nilai tinggi bagi pemerintah, masyarakat, dan sektor kesehatan melalui pemantauan, prediksi, dan edukasi berbasis AI. |
+| **Kebaruan** | Tingkat inovasi dan keunikan gagasan. | **4.5** | Integrasi AI, IoT, dan sistem informasi publik dalam konteks air bersih dan sanitasi menjadikan inovasi ini relevan dan relatif baru dalam skala sosial. |
+| **Desain & Kelayakan** | Kelayakan implementasi dan kejelasan desain sistem. | **4.6** | Desain sistem terstruktur, modular, dan realistis; setiap komponen (sensor, AI, dashboard) saling mendukung dan dapat diimplementasikan bertahap. |
+| **Dampak terhadap KIPP (CPMK)** | Relevansi dan kekuatan dampak terhadap KIPP . | **4.8** | Inovasi secara langsung memperkuat KIPP melalui transparansi data, edukasi digital, dan peningkatan partisipasi masyarakat. |
+
+### 🧮 **Total Skor: 4.7 (A)**
+
+> 📝 *UAS-3 menampilkan inovasi yang kuat, aplikatif, dan relevan secara sosial. Nilai utamanya terletak pada integrasi teknologi dengan tujuan pemberdayaan publik dan penguatan KIPP.*
+
+### 🧾 UAS-4 — My Knowledge
+
+| **Kriteria** | **Deskripsi Penilaian** | **Skor (1–5)** | **Catatan / Bukti** |
+|---------------|--------------------------|----------------|----------------------|
+| **Kurasi Pengetahuan** | Tingkat seleksi dan pengolahan pengetahuan yang disampaikan kepada publik. | **4.0** | Materi disaring dengan baik, fokus pada poin esensial (air bersih, AI, peran sistem informasi); belum terlalu mendalam secara teknis namun tepat sasaran untuk masyarakat umum. |
+| **Keterjelasan Penyajian Publik** | Kejelasan bahasa dan kemudahan dipahami oleh pembaca non-ahli. | **5.0** | Bahasa lugas, terstruktur, dan publik-friendly; ide besar mudah ditangkap tanpa istilah teknis berlebihan. |
+| **Akurasi & Sumber** | Ketepatan informasi dan konsistensi dengan pengetahuan umum/ilmiah. | **4.0** | Argumen selaras dengan kerangka SDG, AI, dan sistem informasi; meskipun tidak mencantumkan sitasi eksplisit, tidak ditemukan klaim menyesatkan. |
+| **Daya Guna bagi Publik** | Manfaat praktis dan relevansi bagi masyarakat luas. | **5.0** | Memberi pemahaman konseptual dan kesadaran kritis; mendorong literasi teknologi dan partisipasi publik dalam isu air dan sanitasi. |
+
+### 🧮 **Total Skor: 4.5 (A)**
+
+> 📝 *UAS-4 berhasil menjalankan fungsi “My Knowledge” dengan sangat baik: informatif, mudah dipahami, dan relevan secara sosial. Kekuatan utamanya terletak pada keterjelasan dan dampak edukatif bagi publik.*
+
+## 🔢 Rekap Skor (ringkas)
+
+* **UAS-1 (My Concepts):** 18.0/20 ➜ **90%**
+* **UAS-2 (My Opinions):** 17.6/20 ➜ **88%**
+* **UAS-3 (My Innovations):** 18.8/20 ➜ **94%**
+* **UAS-4 (My Knowledge):** 18.0/20 ➜ **90%**
+
+---
+
+### 📊 Interpretasi
+> Nilai rata-rata keseluruhan: **90.5% (A)**  
+> Menunjukkan konsistensi pemikiran konseptual, kekuatan opini yang reflektif, inovasi aplikatif berbasis AI, serta kemampuan mentransformasikan pengetahuan menjadi pembelajaran publik yang jelas dan berdampak.
+
+## Penilaian
+
+<p><a href="UAS-5_Skor.xlsx" class="btn btn-primary">📥 Unduh Data Excel</a></p>
